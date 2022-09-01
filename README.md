@@ -1,0 +1,2 @@
+# Solace-Healthcare
+Implemented and designed a website for easy booking of appointments, basic medication, insurances, and equipment usage knowledge to bridge the gap between the healthcare system and the people facing difficulties in accessing medical services using HTML, CSS, JavaScript, MySQL and FIGMA. Merged a predesigned website ‘Insight’ with Solace to help people cope with anxiety and depression
